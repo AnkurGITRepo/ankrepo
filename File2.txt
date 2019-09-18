@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 File 2 created
 is modified later it
+=======
+File 2 created is modified
+>>>>>>> 39e4d86a157847a6de24a4344c97ae151cb43033
